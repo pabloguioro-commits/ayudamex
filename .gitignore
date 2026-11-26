@@ -27,3 +27,18 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Claves de firma
+*.jks
+*.keystore
+key.properties
+
+# Android
+**/android/local.properties
